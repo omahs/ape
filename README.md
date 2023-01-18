@@ -46,7 +46,7 @@ There are three ways to install ape: `pipx`, `pip`, or `Docker`.
 
 ### via `docker`
 
-Ape can also run in a docker contianer.
+Ape can also run in a docker container.
 
 Please visit our [Dockerhub](https://hub.docker.com/repository/docker/apeworx/ape) for more details on using Ape with Docker.
 
